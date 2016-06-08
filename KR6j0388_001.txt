@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:25.948062
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:01
 #+TITLE: 馬鳴菩薩大神力無比驗法念誦軌儀
 #+PROPERTY: CBETA_ID T20n1166
 #+PROPERTY: ID KR6j0388
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1166
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0388_T_000-0674c>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0388_T_001-0674c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1166¶
-
- 馬鳴菩薩大神力無比驗法念誦¶
+No. 1166¶
+馬鳴菩薩大神力無比驗法念誦¶
 軌儀¶
 ¶
 金剛智奉　詔譯¶
