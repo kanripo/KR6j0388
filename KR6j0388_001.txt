@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:25.948062
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:01
 #+TITLE: 馬鳴菩薩大神力無比驗法念誦軌儀
 #+PROPERTY: CBETA_ID T20n1166
 #+PROPERTY: ID KR6j0388
